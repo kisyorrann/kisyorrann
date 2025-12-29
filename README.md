@@ -2,15 +2,16 @@
 <h1 align="center">Hi, I am Kisyorran Gunasekaran 👋</h1>
 <h3 align="center">1st Year Computer Science Student | Computer Network & Security | Aspiring Cybersecurity Professional</h3>
 <p align="center">
----
 
-🛡️ Learning the foundations of networking and secure programming.
-💻 Currently exploring: C++, Python basics.
-🎓 Faculty of Computing (FC), Universiti Teknologi Malaysia.
+
+* 🛡️ Learning the foundations of networking and secure programming.
+* 💻 Currently exploring: C++, Python basics.
+* 🎓 Faculty of Computing (FC), Universiti Teknologi Malaysia.
 
 * 🌍  I'm based in Selangor, Malaysia
 * ✉️  You can contact me at [kisyorran18@gmail.com](mailto:kisyorran18@gmail.com)
 * 💬  Ask me about Still I Rise - LH
+
 
 ## 🎓 Academic Achievements
 
@@ -18,7 +19,6 @@
 - 📊 Achieve **6A 3B** SPM
 - 🧠 MUET BAND **4.0**  
 
----
 
 ## 🌟 Leadership & Experience
 
