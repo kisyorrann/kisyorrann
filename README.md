@@ -1,16 +1,30 @@
 ----------------------------------------
+<h1 align="center">Hi, I am Kisyorran Gunasekaran 👋</h1>
+<h3 align="center">1st Year Computer Science Student | Computer Network & Security | Aspiring Cybersecurity Professional</h3>
+<p align="center">
+---
 
-🚀 1st Year Computer Science Student @ UTM (Computer Network & Security)
-
-🛡️ Aspiring Cybersecurity Professional | Learning the foundations of networking and secure programming.
-
+🛡️ Learning the foundations of networking and secure programming.
 💻 Currently exploring: C++, Python basics.
-
 🎓 Faculty of Computing (FC), Universiti Teknologi Malaysia.
 
 * 🌍  I'm based in Selangor, Malaysia
 * ✉️  You can contact me at [kisyorran18@gmail.com](mailto:kisyorran18@gmail.com)
-* 💬  Ask me about Still We Rise - LH
+* 💬  Ask me about Still I Rise - LH
+
+## 🎓 Academic Achievements
+
+- 🏅 UTMSPACE Physical Science Foundation Programme 2024/2025 ==> **CGPA 3.55** 
+- 📊 Achieve **6A 3B** SPM
+- 🧠 MUET BAND **4.0**  
+
+---
+
+## 🌟 Leadership & Experience
+
+- 👥 **PRESIDENT OF COMPUTER CLUB 24/25 SMK TAMAN DESA 2**  
+  
+---
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
