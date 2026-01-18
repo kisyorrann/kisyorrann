@@ -1,7 +1,17 @@
 <h1 align="center">Hi, I am Kisyorran Gunasekaran 👋</h1>
 <h3 align="center">1st Year Computer Science Student | Computer Network & Security | Aspiring Cybersecurity Professional</h3>
 <p align="center">
----
+<p align="center">
+  <!-- GitHub Logo -->
+  <a href="https://github.com/kisyorrann" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- LinkedIn Logo -->
+  <a href="https://www.linkedin.com/in/kisyorran" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 - 🛡️ Learning the foundations of networking and secure programming.
 - 💻 Currently exploring: C++, Python basics.
